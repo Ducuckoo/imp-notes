@@ -1,7 +1,7 @@
 ## 大牛们的git地址
 ### 大圣
 #### GIT首页 [https://github.com/shengxinjing](https://github.com/shengxinjing)
-##### 2020.06.10集中训练营中
+##### 2020.06.10集中训练营
 
 > 一些链接：
 <br/> Vue3在线编译演示地址 [https://vue-next-template-explorer.netlify.app](https://vue-next-template-explorer.netlify.app)
